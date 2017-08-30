@@ -1,1 +1,1 @@
-# dileepWelcome to Git
+NEW PRACTICE SESSION FOR GIT
